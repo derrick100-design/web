@@ -1,0 +1,15 @@
+p{
+    color: blue;
+}
+.intro{
+    color: red;
+}
+span{
+    color: green;
+}
+h3 + p{
+    color: rgb(87, 17, 17);
+}
+a[title="clique ici"]{
+    color: rgb(27, 6, 6);
+}
